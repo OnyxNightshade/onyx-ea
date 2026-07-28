@@ -86,4 +86,3 @@ Even when both the strategy and the AI core agree on a signal, this layer can re
 
 ---
 
-> ⚠️ **Risk Disclaimer**: This document is a technical overview of the system's internal architecture only and does not constitute investment advice. Trading leveraged instruments carries the risk of losing part or all of your capital, and past performance — real or simulated — does not guarantee future results.
